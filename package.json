@@ -1,0 +1,25 @@
+{
+  "name": "write-good-bot",
+  "version": "0.0.0",
+  "description": "A reddit bot to check grammar",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wtfaremyinitials/write-good-bot.git"
+  },
+  "keywords": [
+    "reddit",
+    "bot",
+    "write-good",
+    "proofread"
+  ],
+  "author": "Will Franzen <wtfranzen@gmail.com> (http://will.xyz/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wtfaremyinitials/write-good-bot/issues"
+  },
+  "homepage": "https://github.com/wtfaremyinitials/write-good-bot"
+}
