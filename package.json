@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/wtfaremyinitials/write-good-bot/issues"
   },
-  "homepage": "https://github.com/wtfaremyinitials/write-good-bot"
+  "homepage": "https://github.com/wtfaremyinitials/write-good-bot",
+  "dependencies": {
+    "write-good": "^0.8.0"
+  }
 }
