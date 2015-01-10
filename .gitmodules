@@ -1,0 +1,3 @@
+[submodule "node_modules/nodewhal"]
+	path = node_modules/nodewhal
+	url = https://github.com/go1dfish/nodewhal.git
