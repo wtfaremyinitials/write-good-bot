@@ -4,7 +4,7 @@ var analyze = require('write-good');
 var secrets = require('./secrets.json');
 
 var init = function(bot) {
-    console.log(bot);
+    console.log('Bot logged in.');
 };
 
 // Bootstrap
